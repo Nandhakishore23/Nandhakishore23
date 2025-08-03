@@ -5,15 +5,15 @@
 <!-- [<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>] -->
 <img width="400" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJxOHdiaGxnZm1xMWZ3dHgwaXN1ajJlenk4OGUwODFoZTFpdGJpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-- 🔭 I’m currently working on [Task management app](github.com/Task-Management-app)
+- 🔭 I’m currently working on [Task management app](/Task-Management-app)
 - 🌱 I’m currently learning **Gen AI and Automation tool n8n**
-- 👨‍💻 All of my projects are available at [github.com/Nandhakishore23](github.com/Nandhakishore23)
+- 👨‍💻 All of my projects are available at [github.com/Nandhakishore23](/Nandhakishore23)
 - 💬 Ask me about **Mern stack**
 - 📫 How to reach me **nandha18kishore@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/pragathishwaran-v-998352219/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pragathishwaran-v-998352219/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nandha-kishore-49b429257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nandha-kishore-49b429257/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
