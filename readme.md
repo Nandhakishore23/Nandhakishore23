@@ -5,7 +5,7 @@
 <!-- [<iframe src="https://giphy.com/embed/f3iwJFOVOwuy7K6FFw" width="480" height="270" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Pluralsight-man-development-developer-f3iwJFOVOwuy7K6FFw">via GIPHY</a></p>] -->
 <img width="400" align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExejJxOHdiaGxnZm1xMWZ3dHgwaXN1ajJlenk4OGUwODFoZTFpdGJpaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f3iwJFOVOwuy7K6FFw/giphy.gif"/>
 
-- 🔭 I’m currently working on [Task management app]
+- 🔭 I’m currently working on [Task management app](/task-management-app)
 - 🌱 I’m currently learning **Gen AI and Automation tool n8n**
 - 👨‍💻 All of my projects are available at [github.com/Nandhakishore23](/Nandhakishore23)
 - 💬 Ask me about **Mern stack**
