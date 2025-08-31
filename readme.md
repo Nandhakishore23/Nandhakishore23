@@ -8,7 +8,7 @@
 - 🔭 I’m currently working on [Task management app](https://github.com/task-management-app)
 - 🌱 I’m currently learning **Gen AI and Automation tool n8n**
 - 👨‍💻 All of my projects are available at [Nandhakishore23](https://github.com/Nandhakishore23)
-- 💬 Ask me about **Mern stack**
+- 💬 Ask me about **Full stack & Artificial Intelligence**
 - 📫 How to reach me **nandha18kishore@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
