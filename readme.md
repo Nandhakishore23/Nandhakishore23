@@ -66,14 +66,6 @@
 <!-- <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>  -->
 </p>
 
-<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandhakishore23&show_icons=true&locale=en&layout=compact" alt="Nandhakishore23" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandhakishore23&show_icons=true&locale=en&layout=compact" alt="Nandhakishore23" /></p>
 
-<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandhakishore23&show_icons=true&locale=en" alt="Nandhakishore23" /></p> -->
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Nandhakishore23&show_icons=true&locale=en&layout=compact&token=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" alt="Nandhakishore23" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandhakishore23&show_icons=true&locale=en&token=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" alt="Nandhakishore23" />
-</p>
-
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nandhakishore23&show_icons=true&locale=en" alt="Nandhakishore23" /></p>
