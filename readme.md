@@ -17,9 +17,9 @@
 <img align="right" width="400" src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif"/>
 
 ### 🚀 About Me  
-- 🔭 Currently working on: [Task Management System](https://github.com/Nandhakishore23/task-management-app) & [Bike Rental System](https://github.com/Nandhakishore23/bike-rental-system)  
-- 🌱 Learning: **Gen AI** & **Automation with n8n**  
-- 💬 Ask me about: **Full Stack Development & Artificial Intelligence**  
+- 🔭 Currently working on: SAP ABAP & [Task Management System](https://github.com/Nandhakishore23/task-management-app) 
+- 🌱 Learning: **SAP ABAP** & **Gen AI** & **Automation with n8n**  
+- 💬 Ask me about: **SAP ABAP & Full Stack Development & Artificial Intelligence **  
 - 📂 All Projects: [GitHub Repositories](https://github.com/Nandhakishore23)  
 - 📫 Reach me at: **nandha18kishore@gmail.com**  
 
