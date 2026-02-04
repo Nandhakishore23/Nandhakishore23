@@ -19,7 +19,7 @@
 ### 🚀 About Me  
 - 🔭 Currently working on: SAP ABAP & [Task Management System](https://github.com/Nandhakishore23/task-management-app) 
 - 🌱 Learning: **SAP ABAP** & **Gen AI** & **Automation with n8n**  
-- 💬 Ask me about: **SAP ABAP & Full Stack Development & Artificial Intelligence **  
+- 💬 Ask me about: **SAP ABAP** & **Full Stack Development** & **Artificial Intelligence**  
 - 📂 All Projects: [GitHub Repositories](https://github.com/Nandhakishore23)  
 - 📫 Reach me at: **nandha18kishore@gmail.com**  
 
